@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Ele | He 🙋‍♂️. Oi eu sou o Renato | I am Renato </b></h1>
+<h1 align= "center"><b>Ele | He/His 🙋‍♂️. Oi eu sou o Renato | I am Renato </b></h1>
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 
 <div align="center">
