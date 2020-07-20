@@ -12,7 +12,5 @@
 
 </div>
 
-![Visitor Count](https://badges.pufler.dev/visits/renatoassis01/renatoassis01)
-
 
 
