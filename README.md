@@ -6,9 +6,10 @@
 
 <i>Siga-me | Follow me:</i><br>
 
-<a href="https://www.linkedin.com/in/renatoassis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="https://dev.to/renatoassis01" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<p align="center">
+<a href="https://dev.to/renatoassis01"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/renatoassis"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+</p>
 
 </div>
 
