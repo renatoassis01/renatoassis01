@@ -2,7 +2,7 @@
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 
 <div>
-   <h3 align="center">Textos</h3>
+   <h3 align="center">Posts|Textos</h3>
 
    1. [Opções do Bash](https://dev.to/renatoassis01/opcoes-do-bash-40e9)
 </div>
