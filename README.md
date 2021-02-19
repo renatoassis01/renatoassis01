@@ -3,7 +3,7 @@
 
 Backend Developer
 
-Tech stack that I'm using: G Cloud, Node.js, NestJS, TypeORM, Kubernetes, Docker 
+Tech stack that I'm using: AWS,G Cloud, Node.js, NestJS, Express, TypeORM, Jest, AvaJS, Sinon, Kubernetes, Docker, PostgreSQL 
 
 Linux user
 
