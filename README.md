@@ -36,7 +36,7 @@ Linux user 🐧
    <p align="center">
        <a href="https://dev.to/renatoassis01"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/renatoassis"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-     <a href="https://drive.google.com/file/d/1amDGaSEG0EzvFcCpQDNWKGOQelmTHb3r/view"><img alt="PDF" src="https://img.shields.io/static/v1?label=PDF&message=RESUME&color=red&style=for-the-badge&logo=adobe"></a>
+     <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1amDGaSEG0EzvFcCpQDNWKGOQelmTHb3r/view"><img alt="PDF" src="https://img.shields.io/static/v1?label=PDF&message=RESUME&color=red&style=for-the-badge&logo=adobe"></a>
    </p>
 </div>
 
