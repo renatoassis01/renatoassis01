@@ -19,12 +19,6 @@ Tech stack that I'm using:
 
 Linux user 🐧
 
-<section style="text-align:center;">
-<a href="https://github.com/renatoassis01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renatoassis01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renatoassis01&layout=compact&langs_count=8&theme=dracula"/>
-<section>
-
 <div>
    <h3 align="center">Posts|Textos</h3>
 
