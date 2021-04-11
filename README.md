@@ -30,9 +30,9 @@ Linux user 🐧
    <p align="center">
        <a href="https://dev.to/renatoassis01"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/renatoassis"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-     <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1amDGaSEG0EzvFcCpQDNWKGOQelmTHb3r/view"><img alt="PDF" src="https://img.shields.io/static/v1?label=PDF&message=RESUME&color=red&style=for-the-badge&logo=adobe"></a>
+     <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1amDGaSEG0EzvFcCpQDNWKGOQelmTHb3r/view"><img alt="Resume in PDF" src="https://img.shields.io/static/v1?label=PDF&message=RESUME&color=red&style=for-the-badge&logo=adobe"></a>
+     <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/renatoassis01/Resume-bb2fc25d433d400bb432e4c65e3276e8"><img alt="Resume" src="https://img.shields.io/static/v1?label=Page&message=RESUME&color=black&style=for-the-badge&logo=notion"></a>
    </p>
 </div>
-
 
 
