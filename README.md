@@ -23,6 +23,7 @@ Linux user 🐧
    <h3 align="center">Posts|Textos</h3>
 
    1. [Opções do Bash](https://dev.to/renatoassis01/opcoes-do-bash-40e9)
+   2. [Como agendar execução de consultas e comandos pelo PostgreSQL no RDS](https://dev.to/renatoassis01/como-agendar-execucao-de-consultas-e-comandos-pelo-postgresql-no-rds-4b1c)
 </div>
 
 <div>
